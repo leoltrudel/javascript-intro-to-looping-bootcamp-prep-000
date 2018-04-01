@@ -22,4 +22,7 @@ function doWhileLoop(array) {
   function maybeTrue() {
     return Math.random() >= .5
   }
+  do {
+    console.log()
+  }
 }
